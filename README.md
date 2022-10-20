@@ -1,4 +1,4 @@
-Afim.io website
+Code of the Afim.io website
 
 Credits:
 - Made using https://nicepage.com/
